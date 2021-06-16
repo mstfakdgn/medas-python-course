@@ -1,0 +1,1 @@
+{'Stratejik': {'count': 22, 'direction': 1, 'vision': 1, 'organization': 6, 'risk': 11, 'choice': 2, 'decision': 1}, 'Taktiksel': {'count': 6, 'control': 2, 'marketing': 1, 'objective': 2, 'finance': 1}, 'Operasyonel': {'count': 16, 'operation': 12, 'solution': 1, 'production': 1, 'execution': 2}}
